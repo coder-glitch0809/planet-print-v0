@@ -1,0 +1,10 @@
+node_modules/
+data/
+.env
+npm-debug.log*
+<<<<<<< HEAD
+=======
+firebase-config.json
+firebase.js
+>>>>>>> 5f44d0931bf52c238dbda55b9ca27a60616670b7
+.env.example

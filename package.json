@@ -1,0 +1,20 @@
+{
+  "name": "planet-print-finance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Planet Print finance panel with server sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "firebase": "^12.12.1",
+    "firebase-admin": "^13.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
